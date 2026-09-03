@@ -6,7 +6,7 @@ I like building things that actually get used. That's taken me from training rei
 
 I care about clean code, measurable outcomes, and understanding how all the pieces fit together. Outside coursework, I build side projects end to end, solve DSA problems regularly, and keep exploring what's possible with agentic AI.
 
-Graduating in 2027 and open to SDE/SWE roles. Happy to connect.
+Graduating in 2027 and open to SDE/SWE roles. Happy to connect — or take the interactive tour at [devanshpalan.vercel.app](https://devanshpalan.vercel.app).
 
 ## Projects
 
@@ -35,5 +35,6 @@ Graduating in 2027 and open to SDE/SWE roles. Happy to connect.
 
 ## Contact
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-devanshpalan.vercel.app-27A866?style=flat&logo=vercel&logoColor=white)](https://devanshpalan.vercel.app)
 [![Email](https://img.shields.io/badge/Email-devanshpalan0904%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:devanshpalan0904@gmail.com)
 <!-- Add your LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh_Palan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE) -->
