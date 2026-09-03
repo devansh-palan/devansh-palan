@@ -33,11 +33,6 @@ Graduating in 2027 and open to SDE/SWE roles. Happy to connect.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=devansh-palan&show_icons=true&theme=default&hide_border=true" height="160" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-palan&layout=compact&hide_border=true" height="160" alt="Top languages">
-</p>
-
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-devanshpalan0904%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:devanshpalan0904@gmail.com)
